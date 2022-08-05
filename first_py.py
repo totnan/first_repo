@@ -22,4 +22,13 @@ def minus(a,b):
     return a-b
 
 def div(a,b):
+<<<<<<< HEAD
     return a/b
+=======
+    return a/b
+
+def multi(a,b):
+    return a*b + 1
+
+#Hello
+>>>>>>> 101d08c8d7d5715315c0fef76447783764c476fa
