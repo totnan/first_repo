@@ -25,4 +25,4 @@ def div(a,b):
     return a/b
 
 def multi(a,b):
-    return a*b
+    return a*b + 1
