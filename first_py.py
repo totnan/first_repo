@@ -14,3 +14,6 @@
 
 #Editted in GitHub
 #added line in VSCode
+
+def add(a,b):
+    return a+b
