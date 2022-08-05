@@ -28,3 +28,4 @@ def multi(a,b):
     return a*b + 1
 #bello
 #Hello
+a = [1,2,3,4]
