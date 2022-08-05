@@ -31,4 +31,8 @@ def multi(a,b):
     return a*b + 1
 #bello
 #Hello
+<<<<<<< HEAD
 >>>>>>> 101d08c8d7d5715315c0fef76447783764c476fa
+=======
+a = [1,2,3,4]
+>>>>>>> 38b770a6cb2d73c527a8c893cc440821ddb1f4f9
